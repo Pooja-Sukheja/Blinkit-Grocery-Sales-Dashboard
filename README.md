@@ -15,3 +15,6 @@ It helps track sales performance, key KPIs, and outlet-wise insights.
 ## Files  
 - `Blinkit Grocery Sales Dashboard.pbix` → Dashboard file  
 - `BlinkIT Grocery Data.csv` → Dataset  
+
+## Dashboard Preview  
+![Dashboard Overview](dashboard_overview.png)
